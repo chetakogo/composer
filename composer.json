@@ -1,0 +1,11 @@
+{
+    "name": "liubov/karavel1",
+    "description": "project",
+    "authors": [
+        {
+            "name": "chetakogo",
+            "email": "chudakova.lyuba.00@gmail.com"
+        }
+    ],
+    "require": {}
+}
